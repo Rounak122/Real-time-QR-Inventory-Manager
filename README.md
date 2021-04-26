@@ -1,4 +1,4 @@
-# qr-inventory-manager-android
+# Real time QR Inventory Manager Android
 Inventory manager app with QR-code based product identification system.
 
 the project is currently **under development**.
