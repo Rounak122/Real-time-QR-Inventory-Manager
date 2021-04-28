@@ -9,7 +9,7 @@
 
     <fragment
         android:id="@+id/loginFragment"
-        android:name="tech.rounak.qr.fragments.LoginFragment"
+        android:name="tech.rounak.qr.fragments.RegistrationFragment"
         android:label="Login">
 <!--        <action-->
 <!--            android:id="@+id/action_loginUsernameFragment_to_loginOtpFragment"-->
